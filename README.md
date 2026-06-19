@@ -1,0 +1,2 @@
+Exercício 2: Sistema de Suporte Técnico (Janela de Confirmação)
+Desenvolva uma classe de interface gráfica que simule um chamado de suporte técnico. A janela deve possuir as dimensões 400x200 pixels. No centro da janela, deve haver uma mensagem perguntando: "Seu problema foi resolvido?". Adicione um botão com o texto "Sim, fechar chamado". Ao clicar neste botão, o sistema deve disparar um alerta informando: "Chamado encerrado com sucesso.".
